@@ -1,0 +1,33 @@
+p{
+    background-color: blue;
+    border: solid yellow;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    border-color: black;
+    margin: 0 0 1em 0;
+    text-align: center;
+}
+
+h2{
+    display: grid;
+    justify-items: center;
+}
+
+button{
+    margin-bottom: 1em;
+}
+
+.image{
+    display: grid;
+    justify-items: center;
+    margin-bottom: 1em;
+}
+
+
+.botones {
+    display: grid;
+    justify-items: inherit;
+    justify-content: center;
+}
+
+
